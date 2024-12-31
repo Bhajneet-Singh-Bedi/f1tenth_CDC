@@ -48,4 +48,14 @@ Steps to run this code:-
     ```
     **Note:- Build and source the package before running these commands**
   * Connect the simulator by clicking on the connect button and make sure the mode is autonomous instead of manual.
-  * The F1tenth car will start running, change the viewing angle for better experience. 
+  * The F1tenth car will start running, change the viewing angle for better experience.
+ 
+  # Note:-
+  The competition was open for everyone in the world and my team got 5th position in phase-1 and 7th position in phase-2 internationally. 
+  <ins>Team name</ins>:- Byte Benders  (I know it's a cool name)
+
+  # Future tasks:-
+  During this competition due to unavailability of time the team implemented greedy approach ([gap_follow algorithm](https://www.youtube.com/watch?v=AywLjJTPRGQ)).
+  But in the future a map based navigation can be implemented to improve the response time, trajectory and planning of the F1tenth car.
+
+  Peace Out✌️
